@@ -1,3 +1,3 @@
 # Asp.Net Serilog Example
 
-Boilerplate for settings up [Serilog](https://github.com/serilog/serilog-aspnetcore) console logging in an AspDotNet Core application.
+Boilerplate for setting up [Serilog](https://github.com/serilog/serilog-aspnetcore) console logging in an AspDotNet Core application.
